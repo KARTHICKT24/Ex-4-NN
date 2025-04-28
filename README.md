@@ -164,8 +164,9 @@ print(classification_report(y_test,predictions))
 ```
 
 ### Output:
+![Uploading NN04.png…]()
 
-![Output_image](image.png)
+
 
 ### Result:
 Thus, MLP is implemented for multi-classification using python.
